@@ -1,0 +1,23 @@
+category,item,amount,type,frequency
+Income,Salary,7500,income,monthly
+Income,Bonus,5000,income,yearly
+Expenses,Mortgage,2500,expense,monthly
+Expenses,Home Insurance,150,expense,monthly
+Expenses,Property Tax,300,expense,monthly
+Expenses,Health Insurance,450,expense,monthly
+Expenses,Car Payment,450,expense,monthly
+Expenses,Car Insurance,120,expense,monthly
+Expenses,Groceries,600,expense,monthly
+Expenses,Utilities,200,expense,monthly
+Expenses,Internet,80,expense,monthly
+Expenses,Phone,100,expense,monthly
+Expenses,Gas,200,expense,monthly
+Expenses,Entertainment,300,expense,monthly
+Expenses,Dining Out,250,expense,monthly
+Expenses,Retirement Contribution,1000,expense,monthly
+Expenses,Emergency Fund,500,expense,monthly
+Savings,Emergency Fund Balance,15000,savings,one-time
+Savings,Retirement Account,45000,savings,one-time
+Debt,Credit Card,2500,debt,one-time
+Debt,Student Loan,15000,debt,one-time
+

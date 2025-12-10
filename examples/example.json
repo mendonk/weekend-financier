@@ -1,0 +1,150 @@
+[
+  {
+    "category": "Income",
+    "item": "Salary",
+    "amount": 7500,
+    "type": "income",
+    "frequency": "monthly"
+  },
+  {
+    "category": "Income",
+    "item": "Bonus",
+    "amount": 5000,
+    "type": "income",
+    "frequency": "yearly"
+  },
+  {
+    "category": "Expenses",
+    "item": "Mortgage",
+    "amount": 2500,
+    "type": "expense",
+    "frequency": "monthly"
+  },
+  {
+    "category": "Expenses",
+    "item": "Home Insurance",
+    "amount": 150,
+    "type": "expense",
+    "frequency": "monthly"
+  },
+  {
+    "category": "Expenses",
+    "item": "Property Tax",
+    "amount": 300,
+    "type": "expense",
+    "frequency": "monthly"
+  },
+  {
+    "category": "Expenses",
+    "item": "Health Insurance",
+    "amount": 450,
+    "type": "expense",
+    "frequency": "monthly"
+  },
+  {
+    "category": "Expenses",
+    "item": "Car Payment",
+    "amount": 450,
+    "type": "expense",
+    "frequency": "monthly"
+  },
+  {
+    "category": "Expenses",
+    "item": "Car Insurance",
+    "amount": 120,
+    "type": "expense",
+    "frequency": "monthly"
+  },
+  {
+    "category": "Expenses",
+    "item": "Groceries",
+    "amount": 600,
+    "type": "expense",
+    "frequency": "monthly"
+  },
+  {
+    "category": "Expenses",
+    "item": "Utilities",
+    "amount": 200,
+    "type": "expense",
+    "frequency": "monthly"
+  },
+  {
+    "category": "Expenses",
+    "item": "Internet",
+    "amount": 80,
+    "type": "expense",
+    "frequency": "monthly"
+  },
+  {
+    "category": "Expenses",
+    "item": "Phone",
+    "amount": 100,
+    "type": "expense",
+    "frequency": "monthly"
+  },
+  {
+    "category": "Expenses",
+    "item": "Gas",
+    "amount": 200,
+    "type": "expense",
+    "frequency": "monthly"
+  },
+  {
+    "category": "Expenses",
+    "item": "Entertainment",
+    "amount": 300,
+    "type": "expense",
+    "frequency": "monthly"
+  },
+  {
+    "category": "Expenses",
+    "item": "Dining Out",
+    "amount": 250,
+    "type": "expense",
+    "frequency": "monthly"
+  },
+  {
+    "category": "Expenses",
+    "item": "Retirement Contribution",
+    "amount": 1000,
+    "type": "expense",
+    "frequency": "monthly"
+  },
+  {
+    "category": "Expenses",
+    "item": "Emergency Fund",
+    "amount": 500,
+    "type": "expense",
+    "frequency": "monthly"
+  },
+  {
+    "category": "Savings",
+    "item": "Emergency Fund Balance",
+    "amount": 15000,
+    "type": "savings",
+    "frequency": "one-time"
+  },
+  {
+    "category": "Savings",
+    "item": "Retirement Account",
+    "amount": 45000,
+    "type": "savings",
+    "frequency": "one-time"
+  },
+  {
+    "category": "Debt",
+    "item": "Credit Card",
+    "amount": 2500,
+    "type": "debt",
+    "frequency": "one-time"
+  },
+  {
+    "category": "Debt",
+    "item": "Student Loan",
+    "amount": 15000,
+    "type": "debt",
+    "frequency": "one-time"
+  }
+]
+
