@@ -27,19 +27,21 @@ I just made this for myself because I found other finance tools annoying, but ma
    python main.py examples/example.xlsx
    ```
 
-Example files are provided in `examples/` for CSV, JSON, and Excel formats. You can put your own data files anywhere - to create a `data/` folder, do the following:
-4. Create a `data/` folder**:
+   Example files are provided in `examples/` for CSV, JSON, and Excel formats.
+   You can put your own data files anywhere - to create a `data/` folder, do the following:
+
+5. Create a `data/` folder**:
    ```bash
    mkdir data
    ```
-5. Create your financial data file in CSV, JSON, or Excel format. Use the example files in `examples/` as a template.
+6. Create your financial data file in CSV, JSON, or Excel format. Use the example files in `examples/` as a template.
    ```bash
    # Copy an example to use as a template
    cp examples/example.csv data/my_finances.csv
    # Then edit data/my_finances.csv with your actual data
    ```
 
-6. Run the program with your data file.
+7. Run the program with your data file.
    ```bash
    python main.py data/my_finances.csv
    ```
@@ -50,7 +52,7 @@ Example files are provided in `examples/` for CSV, JSON, and Excel formats. You 
    python main.py data/my_finances.xlsx
    ```
 
-The program does the following:
+   The program does the following:
    - Display a financial summary in the console
    - Generate static PNG charts
    - Create an interactive web dashboard that opens in your browser
